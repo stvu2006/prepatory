@@ -1,0 +1,2 @@
+# prepatory
+learning JavaScript
